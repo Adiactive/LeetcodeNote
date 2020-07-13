@@ -12,3 +12,8 @@
   * [566. Reshape the Matrix](array/easy/566.-reshape-the-matrix.md)
   * [Untitled](array/easy/untitled.md)
 
+## Tree
+
+* [Easy](tree/easy/README.md)
+  * [100. Same Tree](tree/easy/100.-same-tree.md)
+
