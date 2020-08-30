@@ -16,4 +16,5 @@
 
 * [Easy](tree/easy/README.md)
   * [100. Same Tree](tree/easy/100.-same-tree.md)
+  * [101. Symmetric Tree](tree/easy/101.-symmetric-tree.md)
 
