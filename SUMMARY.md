@@ -14,13 +14,10 @@
 
 ## Tree
 
+* [Medium](tree/medium/README.md)
+  * [106&107. Construct Binary Tree from Inorder and Postorder Traversal](tree/medium/106-and-107.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [Easy](tree/easy/README.md)
   * [100. Same Tree](tree/easy/100.-same-tree.md)
   * [101. Symmetric Tree](tree/easy/101.-symmetric-tree.md)
   * [104. Maximum Depth of Binary Treed](tree/easy/104.-maximum-depth-of-binary-treed.md)
-
----
-
-* [Medium](medium/README.md)
-  * [106&107. Construct Binary Tree from Inorder and Postorder Traversal](medium/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 
