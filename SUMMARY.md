@@ -22,5 +22,5 @@
 ---
 
 * [Medium](medium/README.md)
-  * [106. Construct Binary Tree from Inorder and Postorder Traversal](medium/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+  * [106&107. Construct Binary Tree from Inorder and Postorder Traversal](medium/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 
