@@ -20,4 +20,6 @@
   * [100. Same Tree](tree/easy/100.-same-tree.md)
   * [101. Symmetric Tree](tree/easy/101.-symmetric-tree.md)
   * [104. Maximum Depth of Binary Treed](tree/easy/104.-maximum-depth-of-binary-treed.md)
+  * [110. Balanced Binary Tree](tree/easy/110.-balanced-binary-tree.md)
+  * [543. Diameter of Binary Tree](tree/easy/543.-diameter-of-binary-tree.md)
 
