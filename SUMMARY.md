@@ -16,6 +16,7 @@
 
 * [Medium](tree/medium/README.md)
   * [106&107. Construct Binary Tree from Inorder and Postorder Traversal](tree/medium/106-and-107.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+  * [437. Path Sum III](tree/medium/437.-path-sum-iii.md)
 * [Easy](tree/easy/README.md)
   * [100. Same Tree](tree/easy/100.-same-tree.md)
   * [101. Symmetric Tree](tree/easy/101.-symmetric-tree.md)
@@ -25,7 +26,6 @@
   * [226. Invert Binary Tree](tree/easy/226.-invert-binary-tree.md)
   * [617. Merge Two Binary Trees](tree/easy/617.-merge-two-binary-trees.md)
   * [112. Path Sum](tree/easy/untitled-4.md)
-  * [437. Path Sum III](tree/easy/untitled-3.md)
   * [Untitled](tree/easy/untitled-2.md)
   * [Untitled](tree/easy/untitled-1.md)
   * [Untitled](tree/easy/untitled.md)
