@@ -27,6 +27,7 @@
   * [617. Merge Two Binary Trees](tree/easy/617.-merge-two-binary-trees.md)
   * [112. Path Sum](tree/easy/untitled-4.md)
   * [572. Subtree of Another Tree](tree/easy/untitled-2.md)
-  * [Untitled](tree/easy/untitled-1.md)
+  * [111. Minimum Depth of Binary Tree](tree/easy/111.-minimum-depth-of-binary-tree.md)
+  * [404. Sum of Left Leaves](tree/easy/untitled-1.md)
   * [Untitled](tree/easy/untitled.md)
 
