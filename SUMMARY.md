@@ -31,7 +31,7 @@
   * [111. Minimum Depth of Binary Tree](tree/easy/111.-minimum-depth-of-binary-tree.md)
   * [404. Sum of Left Leaves](tree/easy/untitled-1.md)
   * [687. Longest Univalue Path](tree/easy/untitled.md)
-  * [Untitled](tree/easy/untitled-7.md)
+  * [671. Second Minimum Node In a Binary Tree](tree/easy/untitled-7.md)
   * [Untitled](tree/easy/untitled-6.md)
   * [Untitled](tree/easy/untitled-5.md)
   * [Untitled](tree/easy/untitled-3.md)
