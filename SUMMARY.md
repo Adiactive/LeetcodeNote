@@ -19,6 +19,7 @@
   * [437. Path Sum III](tree/medium/437.-path-sum-iii.md)
   * [337. House Robber III](tree/medium/337.-house-robber-iii.md)
   * [513. Find Bottom Left Tree Value](tree/medium/513.-find-bottom-left-tree-value.md)
+  * [144&94&145. Binary Tree Pre/In/Postorder Traversal](tree/medium/144-and-94-and-145.-binary-tree-pre-in-postorder-traversal.md)
 * [Easy](tree/easy/README.md)
   * [100. Same Tree](tree/easy/100.-same-tree.md)
   * [101. Symmetric Tree](tree/easy/101.-symmetric-tree.md)
