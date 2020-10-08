@@ -35,6 +35,6 @@
   * [687. Longest Univalue Path](tree/easy/untitled.md)
   * [671. Second Minimum Node In a Binary Tree](tree/easy/untitled-7.md)
   * [637. Average of Levels in Binary Tree](tree/easy/untitled-6.md)
-  * [Untitled](tree/easy/untitled-5.md)
+  * [669. Trim a Binary Search Tree](tree/easy/untitled-5.md)
   * [Untitled](tree/easy/untitled-3.md)
 
