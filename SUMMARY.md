@@ -43,8 +43,8 @@
   * [637. Average of Levels in Binary Tree](tree/easy/untitled-6.md)
   * [669. Trim a Binary Search Tree](tree/easy/untitled-5.md)
   * [235. Lowest Common Ancestor of a Binary Search Tree](tree/easy/untitled-3.md)
-  * [Untitled](tree/easy/untitled-11.md)
-  * [Untitled](tree/easy/untitled-10.md)
+  * [653. Two Sum IV - Input is a BST](tree/easy/untitled-11.md)
+  * [530. Minimum Absolute Difference in BST](tree/easy/untitled-10.md)
   * [Untitled](tree/easy/untitled-9.md)
   * [Untitled](tree/easy/untitled-8.md)
 
