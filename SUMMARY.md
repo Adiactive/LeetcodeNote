@@ -45,6 +45,6 @@
   * [235. Lowest Common Ancestor of a Binary Search Tree](tree/easy/untitled-3.md)
   * [653. Two Sum IV - Input is a BST](tree/easy/untitled-11.md)
   * [530. Minimum Absolute Difference in BST](tree/easy/untitled-10.md)
-  * [Untitled](tree/easy/untitled-9.md)
+  * [501. Find Mode in Binary Search Tree](tree/easy/untitled-9.md)
   * [Untitled](tree/easy/untitled-8.md)
 
