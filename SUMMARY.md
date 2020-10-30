@@ -5,17 +5,23 @@
 
 ## Array
 
+* [Medium](array/medium/README.md)
+  * [240. Search a 2D Matrix II](array/medium/240.-search-a-2d-matrix-ii.md)
+  * [Untitled](array/medium/untitled-1.md)
 * [Easy](array/easy/README.md)
   * [1. Two Sum](array/easy/1.-two-sum.md)
   * [26. Remove Duplicates from Sorted Array](array/easy/26.-remove-duplicates-from-sorted-array.md)
   * [283. Move Zeroes](array/easy/283.-move-zeroes.md)
   * [566. Reshape the Matrix](array/easy/566.-reshape-the-matrix.md)
+  * [485. Max Consecutive Ones](array/easy/485.-max-consecutive-ones.md)
+  * [Untitled](array/easy/untitled-2.md)
+  * [Untitled](array/easy/untitled-1.md)
   * [Untitled](array/easy/untitled.md)
 
 ## Tree
 
 * [Medium](tree/medium/README.md)
-  * [106&107. Construct Binary Tree from Inorder and Postorder Traversal](tree/medium/106-and-107.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+  * [105&106. Construct Binary Tree from Inorder and Postorder Traversal](tree/medium/106-and-107.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
   * [437. Path Sum III](tree/medium/437.-path-sum-iii.md)
   * [337. House Robber III](tree/medium/337.-house-robber-iii.md)
   * [513. Find Bottom Left Tree Value](tree/medium/513.-find-bottom-left-tree-value.md)
