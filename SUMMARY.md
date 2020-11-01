@@ -7,7 +7,7 @@
 
 * [Medium](array/medium/README.md)
   * [240. Search a 2D Matrix II](array/medium/240.-search-a-2d-matrix-ii.md)
-  * [Untitled](array/medium/untitled-1.md)
+  * [378. Kth Smallest Element in a Sorted Matrix](array/medium/untitled-1.md)
 * [Easy](array/easy/README.md)
   * [1. Two Sum](array/easy/1.-two-sum.md)
   * [26. Remove Duplicates from Sorted Array](array/easy/26.-remove-duplicates-from-sorted-array.md)
