@@ -21,7 +21,6 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         int length = nums.size();
-        int i = 0;
         vector<int> res;
         
         for(int i = 0; i < length; i++){
