@@ -19,7 +19,7 @@
   * [566. Reshape the Matrix](array/easy/566.-reshape-the-matrix.md)
   * [485. Max Consecutive Ones](array/easy/485.-max-consecutive-ones.md)
   * [645. Set Mismatch](array/easy/untitled-2.md)
-  * [Untitled](array/easy/untitled-1.md)
+  * [697. Degree of an Array](array/easy/untitled-1.md)
   * [Untitled](array/easy/untitled.md)
 
 ## Tree
