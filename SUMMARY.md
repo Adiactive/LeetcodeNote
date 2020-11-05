@@ -20,6 +20,9 @@
   * [485. Max Consecutive Ones](array/easy/485.-max-consecutive-ones.md)
   * [645. Set Mismatch](array/easy/untitled-2.md)
   * [697. Degree of an Array](array/easy/untitled-1.md)
+  * [766. Toeplitz Matrix](array/easy/766.-toeplitz-matrix.md)
+  * [Untitled](array/easy/untitled-4.md)
+  * [Untitled](array/easy/untitled-3.md)
   * [Untitled](array/easy/untitled.md)
 
 ## Tree
