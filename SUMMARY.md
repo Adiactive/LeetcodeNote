@@ -11,6 +11,7 @@
   * [287. Find the Duplicate Number](array/medium/untitled-2.md)
   * [667. Beautiful Arrangement II](array/medium/667.-beautiful-arrangement-ii.md)
   * [565. Array Nesting](array/medium/untitled-4.md)
+  * [769. Max Chunks To Make Sorted](array/medium/769.-max-chunks-to-make-sorted.md)
   * [Untitled](array/medium/untitled.md)
 * [Easy](array/easy/README.md)
   * [1. Two Sum](array/easy/1.-two-sum.md)
