@@ -62,3 +62,9 @@
   * [501. Find Mode in Binary Search Tree](tree/easy/untitled-9.md)
   * [Untitled](tree/easy/untitled-8.md)
 
+## STRING
+
+* [Easy](string/easy/README.md)
+  * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
+  * [Untitled](string/easy/untitled-1.md)
+
