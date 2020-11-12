@@ -67,5 +67,6 @@
 * [Easy](string/easy/README.md)
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
   * [409. Longest Palindrome](string/easy/409.-longest-palindrome.md)
+  * [205. Isomorphic Strings](string/easy/205.-isomorphic-strings.md)
   * [Untitled](string/easy/untitled-1.md)
 
