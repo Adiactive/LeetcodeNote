@@ -71,5 +71,6 @@
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
   * [409. Longest Palindrome](string/easy/409.-longest-palindrome.md)
   * [205. Isomorphic Strings](string/easy/205.-isomorphic-strings.md)
+  * [9. Palindrome Number](string/easy/9.-palindrome-number.md)
   * [Untitled](string/easy/untitled-1.md)
 
