@@ -1,8 +1,12 @@
-# Untitled
+---
+description: 'https://leetcode.com/problems/reverse-linked-list/'
+---
+
+# 206. Reverse Linked List
 
 ## Analysis
 
-For recursion way, pass the new head all the way to the front using the return value and do nothing with it. Also, make sure the new tail points to null. Take into consideration a empty list.
+For recursion way, pass the new head all the way to the front using the return value and do nothing with it. Also, make sure the new tail points to null. Take into consideration an empty list.
 
 ## Code
 
