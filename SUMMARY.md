@@ -78,10 +78,12 @@
 ## Linked List
 
 * [Medium](linked-list/medium/README.md)
+  * [19. Remove Nth Node From End of List](linked-list/medium/19.-remove-nth-node-from-end-of-list.md)
   * [Untitled](linked-list/medium/untitled.md)
 * [Easy](linked-list/easy/README.md)
   * [160. Intersection of Two Linked Lists](linked-list/easy/160.-intersection-of-two-linked-lists.md)
   * [206. Reverse Linked List](linked-list/easy/untitled.md)
   * [21. Merge Two Sorted Lists](linked-list/easy/21.-merge-two-sorted-lists.md)
+  * [83. Remove Duplicates from Sorted List](linked-list/easy/83.-remove-duplicates-from-sorted-list.md)
   * [Untitled](linked-list/easy/untitled-1.md)
 
