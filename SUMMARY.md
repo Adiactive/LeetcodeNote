@@ -90,3 +90,8 @@
   * [234. Palindrome Linked List](linked-list/easy/234.-palindrome-linked-list.md)
   * [328. Odd Even Linked List](linked-list/easy/untitled-1.md)
 
+## HASH TABLE
+
+* [HARD](hash-table/hard/README.md)
+  * [128. Longest Consecutive Sequence](hash-table/hard/128.-longest-consecutive-sequence.md)
+
