@@ -92,6 +92,8 @@
 
 ## HASH TABLE
 
+* [Easy](hash-table/easy/README.md)
+  * [594. Longest Harmonious Subsequence](hash-table/easy/594.-longest-harmonious-subsequence.md)
 * [HARD](hash-table/hard/README.md)
   * [128. Longest Consecutive Sequence](hash-table/hard/128.-longest-consecutive-sequence.md)
 
