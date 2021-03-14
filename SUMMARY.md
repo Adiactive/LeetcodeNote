@@ -105,3 +105,8 @@
   * [232. Implement Queue using Stacks](stack-and-queue/easy/232.-implement-queue-using-stacks.md)
   * [Untitled](stack-and-queue/easy/untitled-1.md)
 
+## Sort
+
+* [Merge Sort](sort/merge-sort.md)
+* [Untitled](sort/untitled-1.md)
+
