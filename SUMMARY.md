@@ -108,5 +108,5 @@
 ## Sort
 
 * [Merge Sort](sort/merge-sort.md)
-* [Untitled](sort/untitled-1.md)
+* [Quick Sort](sort/untitled-1.md)
 
