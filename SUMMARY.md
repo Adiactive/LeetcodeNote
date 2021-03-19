@@ -111,5 +111,6 @@
 * [Quick Sort](sort/untitled-1.md)
 * [215. Kth Largest Element in an Array](sort/215.-kth-largest-element-in-an-array.md)
 * [347. Top K Frequent Elements](sort/347.-top-k-frequent-elements.md)
-* [Untitled](sort/untitled.md)
+* [75. Sort Colors](sort/untitled.md)
+* [Untitled](sort/untitled-2.md)
 
