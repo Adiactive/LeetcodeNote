@@ -121,4 +121,5 @@
   * [70. Climbing Stairs](dp/easy/70.-climbing-stairs.md)
 * [Medium](dp/322.-coin-change/README.md)
   * [322. Coin Change](dp/322.-coin-change/322.-coin-change.md)
+  * [198. House Robber](dp/322.-coin-change/198.-house-robber.md)
 
