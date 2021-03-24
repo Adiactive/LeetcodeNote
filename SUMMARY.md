@@ -123,4 +123,5 @@
   * [322. Coin Change](dp/322.-coin-change/322.-coin-change.md)
   * [198. House Robber](dp/322.-coin-change/198.-house-robber.md)
   * [213. House Robber II](dp/322.-coin-change/213.-house-robber-ii.md)
+  * [64. Minimum Path Sum](dp/322.-coin-change/64.-minimum-path-sum.md)
 
