@@ -127,4 +127,5 @@
   * [64. Minimum Path Sum](dp/322.-coin-change/64.-minimum-path-sum.md)
   * [62. Unique Paths](dp/322.-coin-change/62.-unique-paths.md)
   * [413. Arithmetic Slices](dp/322.-coin-change/413.-arithmetic-slices.md)
+  * [91. Decode Ways](dp/322.-coin-change/91.-decode-ways.md)
 
