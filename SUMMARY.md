@@ -129,4 +129,5 @@
   * [413. Arithmetic Slices](dp/322.-coin-change/413.-arithmetic-slices.md)
   * [91. Decode Ways](dp/322.-coin-change/91.-decode-ways.md)
   * [300. Longest Increasing Subsequence](dp/322.-coin-change/300.-longest-increasing-subsequence.md)
+  * [376. Wiggle Subsequence](dp/322.-coin-change/376.-wiggle-subsequence.md)
 
