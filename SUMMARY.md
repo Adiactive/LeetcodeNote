@@ -130,4 +130,5 @@
   * [91. Decode Ways](dp/322.-coin-change/91.-decode-ways.md)
   * [300. Longest Increasing Subsequence](dp/322.-coin-change/300.-longest-increasing-subsequence.md)
   * [376. Wiggle Subsequence](dp/322.-coin-change/376.-wiggle-subsequence.md)
+  * [1143. Longest Common Subsequence](dp/322.-coin-change/1143.-longest-common-subsequence.md)
 
