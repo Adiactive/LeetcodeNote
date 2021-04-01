@@ -131,4 +131,5 @@
   * [300. Longest Increasing Subsequence](dp/322.-coin-change/300.-longest-increasing-subsequence.md)
   * [376. Wiggle Subsequence](dp/322.-coin-change/376.-wiggle-subsequence.md)
   * [1143. Longest Common Subsequence](dp/322.-coin-change/1143.-longest-common-subsequence.md)
+  * [416. Partition Equal Subset Sum](dp/322.-coin-change/416.-partition-equal-subset-sum.md)
 
