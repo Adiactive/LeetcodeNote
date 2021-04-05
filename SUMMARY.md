@@ -136,4 +136,5 @@
   * [416. Partition Equal Subset Sum](dp/322.-coin-change/416.-partition-equal-subset-sum.md)
   * [494. Target Sum](dp/322.-coin-change/494.-target-sum.md)
   * [474. Ones and Zeroes](dp/322.-coin-change/474.-ones-and-zeroes.md)
+  * [139. Word Break](dp/322.-coin-change/139.-word-break.md)
 
