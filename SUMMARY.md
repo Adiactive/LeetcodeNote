@@ -143,3 +143,10 @@
   * [377. Combination Sum IV](dp/322.-coin-change/377.-combination-sum-iv.md)
   * [650. 2 Keys Keyboard](dp/322.-coin-change/650.-2-keys-keyboard.md)
 
+## Binary Search
+
+* [Medium](binary-search/medium/README.md)
+  * [Untitled](binary-search/medium/untitled.md)
+* [Easy](binary-search/easy/README.md)
+  * [69. Sqrt\(x\)](binary-search/easy/69.-sqrt-x.md)
+
