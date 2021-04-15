@@ -146,7 +146,7 @@
 ## Binary Search
 
 * [Medium](binary-search/medium/README.md)
-  * [Untitled](binary-search/medium/untitled.md)
+  * [540. Single Element in a Sorted Array](binary-search/medium/untitled.md)
 * [Easy](binary-search/easy/README.md)
   * [69. Sqrt\(x\)](binary-search/easy/69.-sqrt-x.md)
   * [744. Find Smallest Letter Greater Than Target](binary-search/easy/744.-find-smallest-letter-greater-than-target.md)
