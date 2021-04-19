@@ -148,9 +148,10 @@
 * [Reference](binary-search/reference.md)
 * [Medium](binary-search/medium/README.md)
   * [540. Single Element in a Sorted Array](binary-search/medium/untitled.md)
+  * [153. Find Minimum in Rotated Sorted Array](binary-search/medium/153.-find-minimum-in-rotated-sorted-array.md)
+  * [154. Find Minimum in Rotated Sorted Array II](binary-search/medium/154.-find-minimum-in-rotated-sorted-array-ii.md)
 * [Easy](binary-search/easy/README.md)
   * [69. Sqrt\(x\)](binary-search/easy/69.-sqrt-x.md)
   * [744. Find Smallest Letter Greater Than Target](binary-search/easy/744.-find-smallest-letter-greater-than-target.md)
   * [278. First Bad Version](binary-search/easy/278.-first-bad-version.md)
-  * [153. Find Minimum in Rotated Sorted Array](binary-search/easy/153.-find-minimum-in-rotated-sorted-array.md)
 
