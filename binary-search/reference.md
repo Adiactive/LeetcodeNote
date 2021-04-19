@@ -5,5 +5,5 @@
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-3. When comparing nums\[mid\] with a certain target, \(l &lt;= r\). When comparing with nums\[left/right\] \(l &lt; r\).
+3. When using while\(l &lt; r\), we can't go to the right when right is the correct ans in the above situation, therefore we should use right = mid instead of mid-1 to get the right close interval. When using \(l &lt;=r \), we can set right = mid - 1.
 
