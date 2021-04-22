@@ -156,3 +156,9 @@
   * [744. Find Smallest Letter Greater Than Target](binary-search/easy/744.-find-smallest-letter-greater-than-target.md)
   * [278. First Bad Version](binary-search/easy/278.-first-bad-version.md)
 
+## Search
+
+* [BFS](search/bfs/README.md)
+  * [1091. Shortest Path in Binary Matrix](search/bfs/1091.-shortest-path-in-binary-matrix.md)
+* [Untitled](search/untitled-1.md)
+
