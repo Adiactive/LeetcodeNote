@@ -142,6 +142,7 @@
   * [139. Word Break](dp/322.-coin-change/139.-word-break.md)
   * [377. Combination Sum IV](dp/322.-coin-change/377.-combination-sum-iv.md)
   * [650. 2 Keys Keyboard](dp/322.-coin-change/650.-2-keys-keyboard.md)
+  * [279. Perfect Squares](dp/322.-coin-change/279.-perfect-squares.md)
 
 ## Binary Search
 
