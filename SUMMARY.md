@@ -165,4 +165,5 @@
   * [17. Letter Combinations of a Phone Number](search/untitled-1/17.-letter-combinations-of-a-phone-number.md)
   * [93. Restore IP Addresses](search/untitled-1/93.-restore-ip-addresses.md)
   * [79. Word Search](search/untitled-1/79.-word-search.md)
+  * [257. Binary Tree Paths](search/untitled-1/257.-binary-tree-paths.md)
 
