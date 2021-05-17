@@ -4,6 +4,8 @@
 
 Line 10 & 13, the operators have to be &gt;= and &lt;= instead of &gt; and &lt;. Or in some cases where left = right, the loop will never stop ---- they keep switching place with each other.
 
+Use random pivot to avoid timeout in some special stupid cases.
+
 ## Code
 
 ### C++ 
@@ -38,5 +40,35 @@ public:
         return nums;
     }
 };
+
+
+class Solution {
+public:
+    void quickSort(vector<int>& nums, int left, int right){
+        if (left >= right) return;
+
+        int randIndex = std::rand() % (right - left + 1) + left;
+        std::swap(nums[left], nums[randIndex]);
+        int key = nums[left];
+        int l = left, r = right;
+        while(l < r){
+            while(l < r && nums[r] >= key) r--;
+            while(l < r && nums[l] <= key) l++;
+
+            std::swap(nums[l], nums[r]);
+        }
+        std::swap(nums[left], nums[l]);
+        
+        quickSort(nums, left, l-1);
+        quickSort(nums, l+1, right);
+        return;
+    }
+
+    vector<int> sortArray(vector<int>& nums) {
+        quickSort(nums, 0, nums.size()-1);
+        return nums;
+    }
+};
+
 ```
 
