@@ -60,7 +60,7 @@
   * [653. Two Sum IV - Input is a BST](tree/easy/untitled-11.md)
   * [530. Minimum Absolute Difference in BST](tree/easy/untitled-10.md)
   * [501. Find Mode in Binary Search Tree](tree/easy/untitled-9.md)
-  * [Untitled](tree/easy/untitled-8.md)
+  * [993. Cousins in Binary Tree](tree/easy/untitled-8.md)
 
 ## STRING
 
