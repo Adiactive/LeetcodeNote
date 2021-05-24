@@ -174,4 +174,5 @@
 
 * [Medium](window/medium/README.md)
   * [3. Longest Substring Without Repeating Characters](window/medium/3.-longest-substring-without-repeating-characters.md)
+  * [76. Minimum Window Substring](window/medium/76.-minimum-window-substring.md)
 
