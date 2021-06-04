@@ -66,6 +66,7 @@
 
 * [Medium](string/medium/README.md)
   * [647. Palindromic Substrings](string/medium/647.-palindromic-substrings.md)
+  * [5. Longest Palindromic Substring](string/medium/5.-longest-palindromic-substring.md)
   * [28. Implement strStr\(\) \(KMP\)](string/medium/untitled.md)
 * [Easy](string/easy/README.md)
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
