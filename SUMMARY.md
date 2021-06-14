@@ -74,6 +74,7 @@
   * [205. Isomorphic Strings](string/easy/205.-isomorphic-strings.md)
   * [9. Palindrome Number](string/easy/9.-palindrome-number.md)
   * [696. Count Binary Substrings](string/easy/untitled-1.md)
+  * [7. Reverse Integer](string/easy/7.-reverse-integer.md)
   * [Untitled](string/easy/untitled.md)
 
 ## Linked List
