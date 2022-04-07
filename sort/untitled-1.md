@@ -2,13 +2,19 @@
 
 ## Analysis
 
-Line 10 & 13, the operators have to be &gt;= and &lt;= instead of &gt; and &lt;. Or in some cases where left = right, the loop will never stop ---- they keep switching place with each other.
+Line 10 & 13, the operators have to be >= and <= instead of > and <. Or in some cases where v1=v2.
+
+&#x20;? ? ?  v1   v2  ? ? ?
+
+&#x20;           l     r
+
+the loop will never stop ---- they keep switching place with each other.
 
 Use random pivot to avoid timeout in some special stupid cases.
 
 ## Code
 
-### C++ 
+### C++&#x20;
 
 ```cpp
 class Solution {
@@ -71,4 +77,3 @@ public:
 };
 
 ```
-
