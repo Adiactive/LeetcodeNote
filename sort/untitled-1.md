@@ -4,9 +4,9 @@
 
 Line 10 & 13, the operators have to be >= and <= instead of > and <. Or in some cases where v1=v2.
 
-&#x20;? ? ?  v1   v2  ? ? ?
+&#x20;? ? ?  v1   v2  ? ? ?            or   2  3  (2 is pivot)
 
-&#x20;           l     r
+&#x20;           l     r                              l    r&#x20;
 
 the loop will never stop ---- they keep switching place with each other.
 

@@ -67,7 +67,7 @@
 * [Medium](string/medium/README.md)
   * [647. Palindromic Substrings](string/medium/647.-palindromic-substrings.md)
   * [5. Longest Palindromic Substring](string/medium/5.-longest-palindromic-substring.md)
-  * [28. Implement strStr\(\) \(KMP\)](string/medium/untitled.md)
+  * [28. Implement strStr() (KMP)](string/medium/untitled.md)
 * [Easy](string/easy/README.md)
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
   * [409. Longest Palindrome](string/easy/409.-longest-palindrome.md)
@@ -80,6 +80,7 @@
 ## Linked List
 
 * [Medium](linked-list/medium/README.md)
+  * [146. LRU Cache](linked-list/medium/146.-lru-cache.md)
   * [19. Remove Nth Node From End of List](linked-list/medium/19.-remove-nth-node-from-end-of-list.md)
   * [24. Swap Nodes in Pairs](linked-list/medium/24.-swap-nodes-in-pairs.md)
   * [445. Add Two Numbers II](linked-list/medium/445.-add-two-numbers-ii.md)
@@ -157,7 +158,7 @@
   * [154. Find Minimum in Rotated Sorted Array II](binary-search/medium/154.-find-minimum-in-rotated-sorted-array-ii.md)
   * [34. Find First and Last Position of Element in Sorted Array](binary-search/medium/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [Easy](binary-search/easy/README.md)
-  * [69. Sqrt\(x\)](binary-search/easy/69.-sqrt-x.md)
+  * [69. Sqrt(x)](binary-search/easy/69.-sqrt-x.md)
   * [744. Find Smallest Letter Greater Than Target](binary-search/easy/744.-find-smallest-letter-greater-than-target.md)
   * [278. First Bad Version](binary-search/easy/278.-first-bad-version.md)
 
@@ -179,4 +180,3 @@
   * [3. Longest Substring Without Repeating Characters](window/medium/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](window/medium/76.-minimum-window-substring.md)
   * [159. Longest Substring with At Most Two Distinct Characters](window/medium/159.-longest-substring-with-at-most-two-distinct-characters.md)
-
