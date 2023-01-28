@@ -174,6 +174,8 @@
   * [257. Binary Tree Paths](search/untitled-1/257.-binary-tree-paths.md)
   * [46. Permutations](search/untitled-1/46.-permutations.md)
   * [77. Combinations](search/untitled-1/77.-combinations.md)
+* [DFS](search/dfs/README.md)
+  * [200. Number of Islands](search/dfs/200.-number-of-islands.md)
 
 ## WINDOW
 
